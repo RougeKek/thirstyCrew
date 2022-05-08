@@ -1,0 +1,19 @@
+.center{
+  margin:auto;
+  width:75%;
+}
+body{
+  background-image: url('resources/YfG2mu.jpg');
+/*  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;*/
+}
+h1 {
+  color: hotpink;
+}
+h2 {
+  color:#9900cc;
+}
+table{
+  color:white;
+}
